@@ -34,5 +34,7 @@ public class SameCharacterSubString {
             longestStartIndex = startIndex;
         }
         return new int[]{longestStartIndex, maxLength};
+
+        // Test Dat
     }
 }
